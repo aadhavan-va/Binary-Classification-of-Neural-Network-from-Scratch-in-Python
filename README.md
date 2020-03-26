@@ -16,5 +16,5 @@
 ## Dataset
   1) The dataset taken for performing feed forward neural network is from sklearn.dataset library.
   2) The dataset choosen is basically  a non-linearity dataset by importing make_blobs,make_moons,make_circles etc..
-  3) In this dataset two features has been taken with 1000 samples  for classification
+  3) In this dataset two features has been taken with 1000 samples  for performing classification.
   
